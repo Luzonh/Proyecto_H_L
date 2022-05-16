@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="the_inputs">
+        <item name="android:layout_width">@dimen/zero</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColorHint">@color/teal_200</item>
+        <item name="titleTextColor">@android:color/holo_blue_dark</item>
+        <item name="layout_constraintRight_toRightOf">@id/textView</item>
+        <item name="layout_constraintLeft_toLeftOf">@id/textView</item>
+    </style>
+
+    <style name="the_passwords" parent="the_inputs">
+        <item name="android:textColorHint">@color/purple_200</item>
+        <item name="android:textColor">@color/purple_200</item>
+        <item name="endIconMode">password_toggle</item>
+
+    </style>
+    <style name="the_inputs1" parent="the_inputs">
+        <item name="android:textColorHint">@color/purple_200</item>
+        <item name="android:textColor">@color/purple_200</item>
+
+
+    </style>
+</resources>

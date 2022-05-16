@@ -2,6 +2,10 @@
     <string name="app_name">delivery_henry</string>
     <string name="user">Usuario</string>
     <string name="password">Contraseña</string>
-    <string name="login">Ingresar</string>
+    <string name="login">Aceptar</string>
     <string name="User">USER LOGIN</string>
+    <string name="welcome">BIENVENIDO</string>
+    <string name="apellido">Apellido</string>
+    <string name="telfono">Telefono</string>
+    <string name="email">Correo</string>
 </resources>
